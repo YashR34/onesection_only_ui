@@ -44,8 +44,12 @@ If you'd like to contribute to this project, feel free to fork the repository an
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+![Screenshot (32)](https://github.com/user-attachments/assets/0c634424-9fe8-4a45-bda5-a52cd40c8151)
+
 Acknowledgments
 
     Inspiration for the design came from modern web design trends.
     Thank you to the open-source community for providing resources and tools.
+    
 
